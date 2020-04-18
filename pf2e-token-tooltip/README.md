@@ -32,5 +32,6 @@ Extract the deselection.zip file to the public/modules directory. Use the `Manag
 * Initial Version for PF2E
 
 ## License
-This Foundry VTT module is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for Module Development](https://foundryvtt.com/article/license/).
+* This module is licensed under [GPLv3](https://github.com/iBoMbY/foundry/blob/master/LICENSE)
+* Original Token Tooltips licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+* This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for Module Development](https://foundryvtt.com/article/license/).
