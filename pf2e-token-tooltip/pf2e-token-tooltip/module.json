@@ -1,0 +1,15 @@
+{
+	"name": "pf2e-token-tooltip",
+	"title": "PF2E Token Tooltip",
+	"description": "Creates a tooltip with the AC, HP, Passive Perception, and Speed when mousing over a token.",
+	"version": "1.0.2",
+	"author": "iBoMbY",
+	"minimumCoreVersion": "0.5.5",
+	"compatibleCoreVersion": "0.5.5",
+	"systems": ["pf2e"],
+	"scripts": ["./init.js", "./token-tooltip.js"],
+	"styles": ["./styles.css"],
+	"url": "https://github.com/iBoMbY/foundry/tree/master/pf2e-token-tooltip",
+	"manifest": "https://raw.githubusercontent.com/iBoMbY/foundry/master/pf2e-token-tooltip/pf2e-token-tooltip/module.json",
+	"download": "https://github.com/iBoMbY/foundry/raw/master/pf2e-token-tooltip/pf2e-token-tooltip.zip"
+}
