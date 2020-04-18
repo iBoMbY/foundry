@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Foundry-v0.4.4-informational)
+![](https://img.shields.io/badge/Foundry-v0.5.5-informational)
 ## PF2E Token Tooltips
 
 * **Author**: iBoMbY
